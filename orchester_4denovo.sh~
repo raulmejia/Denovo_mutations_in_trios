@@ -1,0 +1,1 @@
+samtools mpileup ‐B ‐q 1 ‐f reference.fasta father.bam mother.bam child.bam >trio.mpileup
